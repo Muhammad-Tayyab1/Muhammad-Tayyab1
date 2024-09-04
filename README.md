@@ -17,9 +17,9 @@ I am a passionate FullStack Developer with a strong background in building moder
 
 #### Frontend
 - **React** - Building dynamic and interactive user interfaces.
-- **React Native** - Developing cross-platform mobile apps.
 - **Next.js** - Optimizing performance with server-side rendering and static site generation.
 - **GatsbyJS** - Creating fast, secure, and powerful static websites.
+- **React Native** - Developing cross-platform mobile apps.
 
 #### Backend
 - **Node.js** - Crafting scalable server-side applications.
@@ -41,6 +41,8 @@ I am a passionate FullStack Developer with a strong background in building moder
 ---
 
 ### 📫 How to Reach Me
+- **Phone**: +92-309-6127551
+- **Email**: [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com)
 - **Portfolio**: [Muhammad Tayyab](https://muhammad-portfolio-five.vercel.app/)
 - **LinkedIn**: [Muhammad Tayyab](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
 - **GitHub**: [Muhammad-Tayyab1](https://github.com/Muhammad-Tayyab1)
