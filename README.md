@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am a passionate FullStack Developer with a strong background in building modern and scalable web and mobile applications. With over 3.5+ years of experience, I specialize in both frontend and backend development, creating seamless user experiences and robust backends.
+I am a passionate FullStack Developer with a strong background in building modern and scalable web and mobile applications. With over 3.8+ years of experience, I specialize in both frontend and backend development, creating seamless user experiences and robust backends.
 
 ---
 
@@ -41,7 +41,7 @@ I am a passionate FullStack Developer with a strong background in building moder
 ---
 
 ### 📫 How to Reach Me
-- **Phone**: +92-309-6127551
+- **Phone**: +92-309-6127551, +92-345-0465088
 - **Email**: [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com)
 - **Portfolio**: [Muhammad Tayyab](https://muhammad-portfolio-five.vercel.app/)
 - **LinkedIn**: [Muhammad Tayyab](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
