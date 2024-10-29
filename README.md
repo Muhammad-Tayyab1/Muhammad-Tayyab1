@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am a passionate FullStack Developer with a strong background in building modern and scalable web and mobile applications. With over 3.8+ years of experience, I specialize in both frontend and backend development, creating seamless user experiences and robust backends.
+I am a passionate FullStack Developer with a strong background in building modern and scalable web and mobile applications. With over 4+ years of experience, I specialize in both frontend and backend development, creating seamless user experiences and robust backends.
 
 ---
 
