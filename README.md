@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-tayyab-487b77192/)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
 [![GitHub Muhammad-Tayyab1](https://img.shields.io/github/followers/Muhammad-Tayyab1?label=follow&style=social)](https://github.com/Muhammad-Tayyab1)
 [![Instagram: MuhammadTayyab575](https://img.shields.io/badge/Instagram-Muhammad%20Tayyab575-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammadtayyab575)](https://www.instagram.com/muhammadtayyab575)
+[![Facebook: Muhammad Tayyab](https://img.shields.io/badge/Facebook-Muhammad%20Tayyab-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100031034920869)](https://web.facebook.com/profile.php?id=100031034920869)
 
 ---
 
@@ -66,12 +67,13 @@ I am a passionate FullStack Developer with a strong background in building moder
 ---
 
 ### 📫 How to Reach Me
-- **Phone**: +92-309-6127551, +92-345-0465088
+- **Phone (WhatsApp)**: +92-309-6127551, +92-345-0465088
 - **Email**: [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com)
 - **Portfolio**: [Muhammad Tayyab](https://muhammad-portfolio-five.vercel.app/)
 - **LinkedIn**: [Muhammad Tayyab](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
 - **GitHub**: [Muhammad-Tayyab1](https://github.com/Muhammad-Tayyab1)
 - **Instagram**: [MuhammadTayyab575](https://www.instagram.com/muhammadtayyab575)
+- **Facebook**: [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
 
 ---
 
