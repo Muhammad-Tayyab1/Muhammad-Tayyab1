@@ -26,11 +26,12 @@ I am a passionate FullStack Developer with a strong background in building moder
 - **NestJS** - Building efficient and scalable server-side applications with TypeScript.
 - **Loopback** - Creating robust APIs with minimal setup.
 - **Express.js** - Building RESTful APIs and server-side applications.
+- **Third-Party Logins** - Integrating third-party login options using Instagram, LinkedIn, Facebook, and Google with Node.js and Passport.js.
 
 #### Languages & Databases
 - **JavaScript / TypeScript** - Strong command over JS and its superset TypeScript for large-scale applications.
-- **MySQL & MongoDB** - Proficient in relational and non-relational databases.
-- **Sequelize** - ORM for MySQL, ensuring robust database management.
+- **MySQL, PostgreSQL & MongoDB** - Proficient in relational and non-relational databases.
+- **Sequelize** - ORM for MySQL and PostgreSQL, ensuring robust database management.
 
 #### Payment Integration
 - **Stripe & PayPal** - Implementing secure and seamless payment gateways.
