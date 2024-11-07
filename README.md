@@ -21,6 +21,15 @@ I am a passionate FullStack Developer with a strong background in building moder
 - **GatsbyJS** - Creating fast, secure, and powerful static websites.
 - **React Native** - Developing cross-platform mobile apps.
 
+#### UI Libraries & Styling
+- **Tailwind CSS** - Utility-first CSS framework for custom, responsive designs.
+- **Material UI** - Pre-built React components that implement Google’s Material Design.
+- **Ant Design** - UI library with rich, customizable components.
+- **Styled-Components** - CSS-in-JS styling for enhanced component-based designs.
+- **React-Bootstrap** - Bootstrap components built with React for easy styling.
+- **Chakra UI** - Simple, modular, and accessible component library for React.
+- **Theme UI** - Design system-focused styling for React applications.
+
 #### Backend
 - **Node.js** - Crafting scalable server-side applications.
 - **NestJS** - Building efficient and scalable server-side applications with TypeScript.
@@ -28,9 +37,14 @@ I am a passionate FullStack Developer with a strong background in building moder
 - **Express.js** - Building RESTful APIs and server-side applications.
 - **Third-Party Logins** - Integrating third-party login options using Instagram, LinkedIn, Facebook, and Google with Node.js and Passport.js.
 
+#### Integrations
+- **Email & Messaging** - Integrating email notifications and messaging with services like Twilio for SMS.
+- **Video & Chat** - Integrating video call solutions with Agora and Whereby, and real-time chat solutions using CometChat, Agora Chat, and WeavyChat.
+
 #### Languages & Databases
 - **JavaScript / TypeScript** - Strong command over JS and its superset TypeScript for large-scale applications.
 - **MySQL, PostgreSQL & MongoDB** - Proficient in relational and non-relational databases.
+- **Prisma ORM** - Efficient and type-safe database management with Prisma for PostgreSQL and other databases.
 - **Sequelize** - ORM for MySQL and PostgreSQL, ensuring robust database management.
 
 #### Payment Integration
@@ -38,6 +52,16 @@ I am a passionate FullStack Developer with a strong background in building moder
 
 #### Cloud & DevOps
 - **AWS & Azure** - Deploying and managing applications in the cloud, ensuring scalability and reliability.
+- **Docker** - Containerizing applications for consistent development and deployment across environments.
+- **Deployments** - Experienced with deploying applications to multiple platforms, including:
+  - **AWS EC2** - Hosting and managing scalable virtual servers.
+  - **AWS S3** - Storing and serving static websites.
+  - **Google Cloud Platform (GCP)** - Comprehensive cloud deployment.
+  - **Render** - Simplified deployment for web services and static sites.
+  - **DigitalOcean** - Deploying scalable applications with DigitalOcean’s cloud infrastructure.
+  - **Netlify** - Quick deployment for frontend and static websites.
+  - **Heroku** - PaaS for easy app deployments.
+  - **Vercel** - Optimized for Next.js applications and static site deployment.
 
 ---
 
