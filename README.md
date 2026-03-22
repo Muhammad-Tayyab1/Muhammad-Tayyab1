@@ -62,7 +62,7 @@ I build production-grade web applications — from SaaS platforms and healthcare
 | Project | Stack | Live |
 |---|---|---|
 | **Lets Padel** — Court booking & coaching platform with Stripe, WebSockets, multi-gateway payments | NestJS, Next.js, PostgreSQL | [lets-padel.com](https://lets-padel.com) |
-| **Zeuss (GetZeuss)** — HIPAA/GDPR telehealth platform with custom CRM & 29Next subscriptions | Astro, Node.js, MongoDB | [getzeus.com](https://getzeus.com) |
+| **Zeuss (GetZeuss)** — HIPAA/GDPR telehealth platform with custom CRM & 29Next subscriptions | Astro, Node.js, MongoDB | [getzeus.com](https://getzeuss.com) |
 | **JustNetwork** — LinkedIn-style networking with Agora video, CometChat, Stripe & calendar sync | Next.js, NestJS, Node.js | [justnetwork.tech](https://www.justnetwork.tech) |
 | **Vanille** — Timezone-based booking & eCommerce with Stripe, Agora video, Twilio | NestJS, React.js, MongoDB | [vanille.me](https://www.vanille.me) |
 | **Derisky** — AI-driven innovation risk management platform | Next.js, Node.js, AI/ML | [derisky.ai](https://derisky.ai) |
