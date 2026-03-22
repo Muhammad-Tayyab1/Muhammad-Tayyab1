@@ -1,85 +1,92 @@
-# Hi there, I'm Muhammad Tayyab! 👋
+# Muhammad Tayyab
+### Senior Full-Stack Developer · MERN & NestJS · 4+ Years
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Muhammad%20Tayyab-4CAF50?style=flat-square&logo=vercel&logoColor=white&link=https://muhammad-portfolio-five.vercel.app/)](https://muhammad-portfolio-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-tayyab-487b77192/)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
-[![GitHub Muhammad-Tayyab1](https://img.shields.io/github/followers/Muhammad-Tayyab1?label=follow&style=social)](https://github.com/Muhammad-Tayyab1)
-[![Instagram: MuhammadTayyab575](https://img.shields.io/badge/Instagram-Muhammad%20Tayyab575-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammadtayyab575)](https://www.instagram.com/muhammadtayyab575)
-[![Facebook: Muhammad Tayyab](https://img.shields.io/badge/Facebook-Muhammad%20Tayyab-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100031034920869)](https://web.facebook.com/profile.php?id=100031034920869)
+I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and DeFi marketplaces. Currently open to freelance projects and long-term contracts.
 
----
-
-### About Me
-
-I am a passionate FullStack Developer with a strong background in building modern and scalable web and mobile applications. With over 4+ years of experience, I specialize in both frontend and backend development, creating seamless user experiences and robust backends.
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--portfolio--five.vercel.app-00d28c?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-portfolio-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
+[![Email](https://img.shields.io/badge/Email-m.tayyab0162%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.tayyab0162@gmail.com)
+[![Email](https://img.shields.io/badge/Email-muhammadtayyab0165%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtayyab0165@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--309--612--7551-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923096127551)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--345--046--5088-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923450465088)
 
 ---
 
-### 🌟 My Skills
+## What I Do
 
-#### Frontend
-- **React** - Building dynamic and interactive user interfaces.
-- **Next.js** - Optimizing performance with server-side rendering and static site generation.
-- **GatsbyJS** - Creating fast, secure, and powerful static websites.
-- **React Native** - Developing cross-platform mobile apps.
-
-#### UI Libraries & Styling
-- **Tailwind CSS** - Utility-first CSS framework for custom, responsive designs.
-- **Material UI** - Pre-built React components that implement Google’s Material Design.
-- **Ant Design** - UI library with rich, customizable components.
-- **Styled-Components** - CSS-in-JS styling for enhanced component-based designs.
-- **React-Bootstrap** - Bootstrap components built with React for easy styling.
-- **Chakra UI** - Simple, modular, and accessible component library for React.
-- **Theme UI** - Design system-focused styling for React applications.
-
-#### Backend
-- **Node.js** - Crafting scalable server-side applications.
-- **NestJS** - Building efficient and scalable server-side applications with TypeScript.
-- **Loopback** - Creating robust APIs with minimal setup.
-- **Express.js** - Building RESTful APIs and server-side applications.
-- **Third-Party Logins** - Integrating third-party login options using Instagram, LinkedIn, Facebook, and Google with Node.js and Passport.js.
-
-#### Integrations
-- **Email & Messaging** - Integrating email notifications and messaging with services like Twilio for SMS.
-- **Video & Chat** - Integrating video call solutions with Agora and Whereby, and real-time chat solutions using CometChat, Agora Chat, and WeavyChat.
-
-#### Languages & Databases
-- **JavaScript / TypeScript** - Strong command over JS and its superset TypeScript for large-scale applications.
-- **MySQL, PostgreSQL & MongoDB** - Proficient in relational and non-relational databases.
-- **Prisma ORM** - Efficient and type-safe database management with Prisma for PostgreSQL and other databases.
-- **Sequelize** - ORM for MySQL and PostgreSQL, ensuring robust database management.
-
-#### Payment Integration
-- **Stripe & PayPal** - Implementing secure and seamless payment gateways.
-
-#### Cloud & DevOps
-- **AWS & Azure** - Deploying and managing applications in the cloud, ensuring scalability and reliability.
-- **Docker** - Containerizing applications for consistent development and deployment across environments.
-- **Deployments** - Experienced with deploying applications to multiple platforms, including:
-  - **AWS EC2** - Hosting and managing scalable virtual servers.
-  - **AWS S3** - Storing and serving static websites.
-  - **Google Cloud Platform (GCP)** - Comprehensive cloud deployment.
-  - **Render** - Simplified deployment for web services and static sites.
-  - **DigitalOcean** - Deploying scalable applications with DigitalOcean’s cloud infrastructure.
-  - **Netlify** - Quick deployment for frontend and static websites.
-  - **Heroku** - PaaS for easy app deployments.
-  - **Vercel** - Optimized for Next.js applications and static site deployment.
+- 🏗️ **Full-Stack SaaS** — end-to-end architecture, auth, billing, deployment
+- ⚡ **Real-Time Systems** — WebSockets, Socket.io, Agora, CometChat, Pusher
+- 💳 **Payment Integration** — Stripe (Cards, Apple Pay, Google Pay), PayPal, Paysera, 29Next
+- ☁️ **Cloud & DevOps** — AWS (Lambda, S3, EC2, DynamoDB), Docker, Vercel, Heroku
+- 🔗 **Third-Party APIs** — Google Calendar, Twilio, SendGrid, MetaMask, and more
+- 🤖 **AI Integration** — OpenAI, TensorFlow, AI-driven platforms
 
 ---
 
-### 📫 How to Reach Me
-- **Phone (WhatsApp)**: +92-309-6127551, +92-345-0465088
-- **Email**: [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com)
-- **Portfolio**: [Muhammad Tayyab](https://muhammad-portfolio-five.vercel.app/)
-- **LinkedIn**: [Muhammad Tayyab](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
-- **GitHub**: [Muhammad-Tayyab1](https://github.com/Muhammad-Tayyab1)
-- **Instagram**: [MuhammadTayyab575](https://www.instagram.com/muhammadtayyab575)
-- **Facebook**: [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-### 🚀 What I'm Currently Working On
-- Building full-stack applications with a focus on modern frameworks and cloud integration.
+## Selected Work
+
+| Project | Stack | Live |
+|---|---|---|
+| **Lets Padel** — Court booking & coaching platform with Stripe, WebSockets, multi-gateway payments | NestJS, Next.js, PostgreSQL | [lets-padel.com](https://lets-padel.com) |
+| **Zeuss (GetZeuss)** — HIPAA/GDPR telehealth platform with custom CRM & 29Next subscriptions | Astro, Node.js, MongoDB | [getzeus.com](https://getzeus.com) |
+| **JustNetwork** — LinkedIn-style networking with Agora video, CometChat, Stripe & calendar sync | Next.js, NestJS, Node.js | [justnetwork.tech](https://www.justnetwork.tech) |
+| **Vanille** — Timezone-based booking & eCommerce with Stripe, Agora video, Twilio | NestJS, React.js, MongoDB | [vanille.me](https://www.vanille.me) |
+| **Derisky** — AI-driven innovation risk management platform | Next.js, Node.js, AI/ML | [derisky.ai](https://derisky.ai) |
+| **Jigen** — NFT marketplace with MetaMask, auction flows, live leaderboard | Next.js, Node.js, MongoDB | [jigen.io](https://www.jigen.io) |
+| **WebCEO** — SEO & digital marketing campaign management platform | Next.js, Supabase | [webceo.com](https://online.webceo.com) |
+| **eDating** — Dating platform with matching, profiles & real-time messaging | React.js, Node.js, PostgreSQL | [Live](https://dating.ebookingsystem.com) |
+| **Classification** — OLX-style classified ads with advanced search & listing management | MERN Stack | [Live](https://listing.ebookingsystem.com) |
+
+> 25+ production applications shipped across SaaS, HealthTech, Web3, and Social platforms.
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tayyab1&show_icons=true&theme=dark&bg_color=080b10&title_color=00d28c&icon_color=00d28c&text_color=8b9ab0&border_color=1a2535&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tayyab1&layout=compact&theme=dark&bg_color=080b10&title_color=00d28c&text_color=8b9ab0&border_color=1a2535" height="160" />
+</p>
+
+---
+
+## Currently
+
+- 💼 **Open to** select freelance collaborations
+- 🌍 Based in **Lahore, Pakistan** · Available for remote collaboration
+- 📧 **m.tayyab0162@gmail.com** · muhammadtayyab0165@gmail.com
+- 💬 **+92 309 612 7551** · +92 345 046 5088
