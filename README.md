@@ -1,12 +1,12 @@
 # Muhammad Tayyab
-### Senior Full-Stack Developer · MERN & NestJS · 4+ Years
+### Senior Full-Stack Developer · MERN & NestJS · 5+ Years · 🟢 Available for Remote Work
 
-I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and DeFi marketplaces. Currently open to freelance projects and long-term contracts.
+I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and enterprise suites. **Immediately available** for remote work worldwide — full-time, part-time, contract, or project-based.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--portfolio--five.vercel.app-00d28c?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-portfolio-five.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
-[![Email](https://img.shields.io/badge/Email-m.tayyab0162%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.tayyab0162@gmail.com)
 [![Email](https://img.shields.io/badge/Email-muhammadtayyab0165%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtayyab0165@gmail.com)
+[![Email](https://img.shields.io/badge/Email-m.tayyab0162%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.tayyab0162@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--309--612--7551-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923096127551)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--345--046--5088-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923450465088)
 
@@ -19,7 +19,7 @@ I build production-grade web applications — from SaaS platforms and healthcare
 - 💳 **Payment Integration** — Stripe (Cards, Apple Pay, Google Pay), PayPal, Paysera, 29Next
 - ☁️ **Cloud & DevOps** — AWS (Lambda, S3, EC2, DynamoDB), Docker, Vercel, Heroku
 - 🔗 **Third-Party APIs** — Google Calendar, Twilio, SendGrid, MetaMask, and more
-- 🤖 **AI Integration** — OpenAI, TensorFlow, AI-driven platforms
+- 🤖 **AI Integration** — OpenAI, TensorFlow, Claude Code, AI-driven platforms
 
 ---
 
@@ -77,8 +77,9 @@ I build production-grade web applications — from SaaS platforms and healthcare
 
 | Project | Stack | Live |
 |---|---|---|
+| **Orbiz** — Full multi-tenant enterprise suite: HRMS, AMS, Vault, Filespace, Super Admin — sole architect | NestJS Microservices, Next.js, Turborepo, MongoDB, RabbitMQ | Private |
 | **Lets Padel** — Court booking & coaching platform with Stripe, WebSockets, multi-gateway payments | NestJS, Next.js, PostgreSQL | [lets-padel.com](https://lets-padel.com) |
-| **Zeuss (GetZeuss)** — HIPAA/GDPR telehealth platform with custom CRM & 29Next subscriptions | Astro, Node.js, MongoDB | [getzeus.com](https://getzeuss.com) |
+| **Zeuss (GetZeuss)** — HIPAA/GDPR telehealth platform with custom CRM & 29Next subscriptions | Astro, Node.js, MongoDB | [getzeuss.com](https://getzeuss.com) |
 | **JustNetwork** — LinkedIn-style networking with Agora video, CometChat, Stripe & calendar sync | Next.js, NestJS, Node.js | [justnetwork.tech](https://www.justnetwork.tech) |
 | **Vanille** — Timezone-based booking & eCommerce with Stripe, Agora video, Twilio | NestJS, React.js, MongoDB | [vanille.me](https://www.vanille.me) |
 | **Derisky** — AI-driven innovation risk management platform | Next.js, Node.js, AI/ML | [derisky.ai](https://derisky.ai) |
@@ -87,7 +88,7 @@ I build production-grade web applications — from SaaS platforms and healthcare
 | **eDating** — Dating platform with matching, profiles & real-time messaging | React.js, Node.js, PostgreSQL | [Live](https://dating.ebookingsystem.com) |
 | **Classification** — OLX-style classified ads with advanced search & listing management | MERN Stack | [Live](https://listing.ebookingsystem.com) |
 
-> 25+ production applications shipped across SaaS, HealthTech, Web3, and Social platforms.
+> 25+ production applications shipped across SaaS, HealthTech, Enterprise, Web3, and Social platforms.
 
 ---
 
@@ -102,7 +103,7 @@ I build production-grade web applications — from SaaS platforms and healthcare
 
 ## Currently
 
-- 💼 **Open to** select freelance collaborations
-- 🌍 Based in **Lahore, Pakistan** · Available for remote collaboration
-- 📧 **m.tayyab0162@gmail.com** · muhammadtayyab0165@gmail.com
+- 🟢 **Immediately available** for remote work — Full-Time · Part-Time · Contract · Project-Based
+- 🌍 Based in **Lahore, Pakistan** (PKT, UTC+5) · Flexible overlap with US, EU & AU teams
+- 📧 **muhammadtayyab0165@gmail.com** · m.tayyab0162@gmail.com
 - 💬 **+92 309 612 7551** · +92 345 046 5088
