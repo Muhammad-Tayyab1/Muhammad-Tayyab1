@@ -1,9 +1,9 @@
 # Muhammad Tayyab
-### Senior Full-Stack Developer · MERN & NestJS · 5+ Years · 🟢 Available for Remote Work
+### Full-Stack Software Engineer · MERN & NestJS · 5+ Years · 🟢 Available for Remote Work
 
 I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and enterprise suites. **Immediately available** for remote work worldwide — full-time, part-time, contract, or project-based.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--portfolio--five.vercel.app-00d28c?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-portfolio-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.tayyabcodes.com-00d28c?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.tayyabcodes.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
 [![Email](https://img.shields.io/badge/Email-muhammadtayyab0165%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtayyab0165@gmail.com)
 [![Email](https://img.shields.io/badge/Email-m.tayyab0162%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.tayyab0162@gmail.com)
@@ -88,7 +88,7 @@ I build production-grade web applications — from SaaS platforms and healthcare
 | **eDating** — Dating platform with matching, profiles & real-time messaging | React.js, Node.js, PostgreSQL | [Live](https://dating.ebookingsystem.com) |
 | **Classification** — OLX-style classified ads with advanced search & listing management | MERN Stack | [Live](https://listing.ebookingsystem.com) |
 
-> 25+ production applications shipped across SaaS, HealthTech, Enterprise, Web3, and Social platforms.
+> 20+ production applications shipped across SaaS, HealthTech, Enterprise, Web3, and Social platforms.
 
 ---
 
