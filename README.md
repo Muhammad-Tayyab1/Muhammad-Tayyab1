@@ -95,8 +95,8 @@ I build production-grade web applications — from SaaS platforms and healthcare
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tayyab1&show_icons=true&theme=dark&bg_color=080b10&title_color=00d28c&icon_color=00d28c&text_color=8b9ab0&border_color=1a2535&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tayyab1&layout=compact&theme=dark&bg_color=080b10&title_color=00d28c&text_color=8b9ab0&border_color=1a2535" height="160" />
+  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api?username=Muhammad-Tayyab1&show_icons=true&theme=dark&bg_color=080b10&title_color=00d28c&icon_color=00d28c&text_color=8b9ab0&border_color=1a2535&hide_border=false" height="160" />
+  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api/top-langs/?username=Muhammad-Tayyab1&layout=compact&theme=dark&bg_color=080b10&title_color=00d28c&text_color=8b9ab0&border_color=1a2535" height="160" />
 </p>
 
 ---
