@@ -105,5 +105,5 @@ I build production-grade web applications — from SaaS platforms and healthcare
 
 - 🟢 **Immediately available** for remote work — Full-Time · Part-Time · Contract · Project-Based
 - 🌍 Based in **Sialkot, Pakistan** (PKT, UTC+5) · Flexible overlap with US, EU & AU teams
-- 📧 **muhammadtayyab0165@gmail.com** · m.tayyab0162@gmail.com
+- 📧 m.tayyab0162@gmail.com
 - 💬 **+92 309 612 7551** · +92 345 046 5088
