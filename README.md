@@ -1,25 +1,30 @@
-# Muhammad Tayyab
-### Full-Stack Software Engineer · MERN & NestJS · 5+ Years · 🟢 Available for Remote Work
+<div align="center">
 
-I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and enterprise suites. **Immediately available** for remote work worldwide — full-time, part-time, contract, or project-based.
+# Muhammad Tayyab
+
+### Full-Stack Software Engineer · MERN & NestJS · 5+ Years Experience
+
+**Available for remote work** — full-time, part-time, contract, or project-based
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.tayyabcodes.com-00d28c?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.tayyabcodes.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Tayyab-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-487b77192/)
-[![Email](https://img.shields.io/badge/Email-muhammadtayyab0165%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadtayyab0165@gmail.com)
 [![Email](https://img.shields.io/badge/Email-m.tayyab0162%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.tayyab0162@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--309--612--7551-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923096127551)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92--345--046--5088-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923450465088)
+
+</div>
+
+I build production-grade web applications — from SaaS platforms and healthcare systems to real-time apps and enterprise suites — for clients across the US, EU, and AU.
 
 ---
 
 ## What I Do
 
-- 🏗️ **Full-Stack SaaS** — end-to-end architecture, auth, billing, deployment
-- ⚡ **Real-Time Systems** — WebSockets, Socket.io, Agora, CometChat, Pusher
-- 💳 **Payment Integration** — Stripe (Cards, Apple Pay, Google Pay), PayPal, Paysera, 29Next
-- ☁️ **Cloud & DevOps** — AWS (Lambda, S3, EC2, DynamoDB), Docker, Vercel, Heroku
-- 🔗 **Third-Party APIs** — Google Calendar, Twilio, SendGrid, MetaMask, and more
-- 🤖 **AI Integration** — OpenAI, TensorFlow, Claude Code, AI-driven platforms
+- **Full-Stack SaaS** — end-to-end architecture, authentication, billing, and deployment
+- **Real-Time Systems** — WebSockets, Socket.io, Agora, CometChat, Pusher
+- **Payment Integration** — Stripe (Cards, Apple Pay, Google Pay), PayPal, Paysera, 29Next
+- **Cloud & DevOps** — AWS (Lambda, S3, EC2, DynamoDB), Docker, Vercel, Heroku
+- **Third-Party APIs** — Google Calendar, Twilio, SendGrid, MetaMask, and more
+- **AI Integration** — OpenAI, TensorFlow, Claude Code, AI-driven platforms
 
 ---
 
@@ -95,15 +100,17 @@ I build production-grade web applications — from SaaS platforms and healthcare
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api?username=Muhammad-Tayyab1&show_icons=true&theme=dark&bg_color=080b10&title_color=00d28c&icon_color=00d28c&text_color=8b9ab0&border_color=1a2535&hide_border=false" height="160" />
-  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api/top-langs/?username=Muhammad-Tayyab1&layout=compact&theme=dark&bg_color=080b10&title_color=00d28c&text_color=8b9ab0&border_color=1a2535" height="160" />
+  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api?username=Muhammad-Tayyab1&show_icons=true&theme=dark&bg_color=080b10&title_color=00d28c&icon_color=00d28c&text_color=8b9ab0&border_color=1a2535&hide_border=false" height="160" alt="Muhammad Tayyab's GitHub stats" />
+  <img src="https://github-readme-stats-ashy-nine-qkpkop028g.vercel.app/api/top-langs/?username=Muhammad-Tayyab1&layout=compact&theme=dark&bg_color=080b10&title_color=00d28c&text_color=8b9ab0&border_color=1a2535" height="160" alt="Muhammad Tayyab's most used languages" />
 </p>
 
 ---
 
-## Currently
+## Availability & Contact
 
-- 🟢 **Immediately available** for remote work — Full-Time · Part-Time · Contract · Project-Based
-- 🌍 Based in **Sialkot, Pakistan** (PKT, UTC+5) · Flexible overlap with US, EU & AU teams
-- 📧 m.tayyab0162@gmail.com
-- 💬 **+92 309 612 7551** · +92 345 046 5088
+| | |
+|---|---|
+| **Status** | Available — Full-Time · Part-Time · Contract · Project-Based |
+| **Location** | Sialkot, Pakistan (UTC+5) · Flexible overlap with US, EU & AU teams |
+| **Email** | [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com) · [muhammadtayyab0165@gmail.com](mailto:muhammadtayyab0165@gmail.com) |
+| **Phone / WhatsApp** | [+92 309 612 7551](https://wa.me/923096127551) · [+92 345 046 5088](https://wa.me/923450465088) |
