@@ -112,5 +112,5 @@ I build production-grade web applications — from SaaS platforms and healthcare
 |---|---|
 | **Status** | Available — Full-Time · Part-Time · Contract · Project-Based |
 | **Location** | Sialkot, Pakistan (UTC+5) · Flexible overlap with US, EU & AU teams |
-| **Email** | [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com) · [muhammadtayyab0165@gmail.com](mailto:muhammadtayyab0165@gmail.com) |
+| **Email** | [m.tayyab0162@gmail.com](mailto:m.tayyab0162@gmail.com)
 | **Phone / WhatsApp** | [+92 309 612 7551](https://wa.me/923096127551) · [+92 345 046 5088](https://wa.me/923450465088) |
