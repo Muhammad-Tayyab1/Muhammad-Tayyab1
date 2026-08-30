@@ -61,13 +61,16 @@ I enjoy solving complex engineering problems, designing scalable backend systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
 
-**Architecture:** REST APIs · GraphQL · Microservices · Event-Driven Systems · Multi-Tenant SaaS · Real-Time Systems
+**Architecture:** REST APIs · GraphQL · Microservices · Event-Driven Systems · Multi-Tenant SaaS · Real-Time Systems · RAG Pipelines
 
 ---
 
@@ -111,8 +114,9 @@ I enjoy solving complex engineering problems, designing scalable backend systems
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square\&logo=anthropic\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 
-**AI:** LLM APIs · RAG · Embeddings · Semantic Search · AI Agents · Document Intelligence · Vector Search · LangChain · LangGraph
+**AI:** LLM APIs · Hugging Face · RAG · Embeddings · Semantic Search · Hybrid Retrieval · Reranking · AI Agents · Document Intelligence · Vector Search · LangChain · LangGraph
 
 **Vector Databases:** Qdrant · Pinecone
 
