@@ -143,8 +143,24 @@ I'm continuously expanding my backend engineering skills and currently **learnin
 * Authentication & authorization
 * API documentation with OpenAPI
 * Production-ready backend patterns
+* LLM application patterns, Hugging Face integrations, and retrieval-augmented generation (RAG)
 
 My goal is to gradually expand my backend toolkit beyond the Node.js ecosystem and apply Python/FastAPI to **AI, automation, API, and backend-heavy applications**.
+
+---
+
+# Featured Open Source
+
+## 🤗 [FastAPI Hugging Face RAG](https://github.com/Muhammad-Tayyab1/fastapi-huggingface-rag)
+
+Production-oriented Python API for retrieval-augmented generation with Hugging Face model integration.
+
+* FastAPI service with a modular, current-standard project structure
+* Document ingestion, chunking, embeddings, hybrid retrieval, and optional reranking
+* JWT authentication plus scoped API keys with read/write authorization
+* Prometheus metrics, health checks, Docker Compose, migrations, and deployment guidance
+
+**Stack:** `Python` `FastAPI` `Hugging Face` `RAG` `PostgreSQL` `Redis` `Docker` `Prometheus`
 
 ---
 
