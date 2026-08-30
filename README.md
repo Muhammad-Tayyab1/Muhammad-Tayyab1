@@ -2,7 +2,7 @@
 
 # Muhammad Tayyab
 
-### Full-Stack Engineer · Next.js · NestJS · TypeScript · SaaS & AI
+### Full-Stack & AI Engineer · Next.js · NestJS · Python · FastAPI · RAG
 
 **5+ years building production-grade web applications, SaaS platforms, enterprise systems, and AI-powered products**
 
