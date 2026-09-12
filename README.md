@@ -15,7 +15,7 @@ I'm a Full-Stack Software Engineer with 5+ years of experience building SaaS pla
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, DynamoDB), Docker, Google Cloud, Azure, Vercel, Render, Heroku, Netlify, Firebase
 - **AI & RAG:** OpenAI, Claude, Hugging Face, LangChain, LangGraph, embeddings, semantic search, hybrid retrieval, reranking, AI agents, Qdrant, Pinecone
 - **Payments & Integrations:** Stripe, Stripe Connect, PayPal, Paysera, 29Next, Apple Pay, Google Pay, Agora, CometChat, Twilio, Pusher, SendGrid, Google Calendar, Outlook Calendar, MetaMask
-- **AI & Productivity Tools:** TensorFlow, ChatGPT, GitHub Copilot, Cursor, v0, Builder.io
+- **AI & Productivity Tools:** TensorFlow, ChatGPT, GitHub Copilot, Cursor, v0, Builder.io, Claude Code, Codex, Commandcode
 
 ## Selected Projects
 
