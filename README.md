@@ -31,4 +31,4 @@ I'm a Full-Stack Software Engineer with 5+ years of experience building SaaS pla
 
 📍 Sialkot, Pakistan · Flexible overlap with US, EU & AU teams  
 💼 Open to remote full-time, part-time, contract, and freelance opportunities  
-📩 [Email](mailto:m.tayyab0162@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-487b77192/) · [Portfolio](https://portfolio.tayyabcodes.com/) · [WhatsApp](https://wa.me/923096127551)
+📩 [Email](mailto:m.tayyab0162@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-487b77192/) · [Portfolio](https://tayyabcodes.com/) · [WhatsApp](https://wa.me/923096127551)
