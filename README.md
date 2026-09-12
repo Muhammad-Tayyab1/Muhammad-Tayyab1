@@ -25,7 +25,7 @@ I'm a Full-Stack Software Engineer with 5+ years of experience building SaaS pla
 - **[Vanille](https://vanille.me)** — Booking and eCommerce platform with timezone-aware scheduling, Stripe payments, Agora video calls, and Twilio integrations. NestJS, React, MongoDB.
 - **[FastAPI Hugging Face RAG](https://github.com/Muhammad-Tayyab1/fastapi-huggingface-rag)** — Document ingestion, embeddings, hybrid retrieval, and question answering with Hugging Face models. Python, FastAPI, PostgreSQL, Redis, Docker.
 - **[JustNetwork](https://www.justnetwork.tech)** — Professional networking platform with Agora video calls, CometChat messaging, Stripe and PayPal payments, and calendar sync. Next.js, NestJS, Node.js.
-- **Catanemo**
+- **[Katanemo](https://katanemo.com)** — API SaaS platform.
 
 ## Let's Connect
 
